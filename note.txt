@@ -1,0 +1,17 @@
+
+
+    Notes Keeping Application
+    Solar Modal
+    Registration page with Mysql using Django
+    Random Qoute Generator
+    Snake Game
+    image Scrapping with Python
+    Registration page
+    Rock paper scissor
+    Wheather Forcast
+    Bingo Game
+    Dot and Boxes Game
+    Music Game
+    word scrumble
+    Tic Tac Toe
+

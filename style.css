@@ -503,3 +503,23 @@ input[type="checkbox"]:checked + .slider:before {
   color: #e74c3c;
   font-style: italic;
 }
+
+/* Define the default size of social icons */
+.social-icons a {
+  display: inline-block;
+  width: 40px;
+  height: auto;
+}
+
+/* Define the transition for smooth animation */
+.social-icons a {
+  transition: transform 0.3s ease;
+}
+
+/* Scale up the icons on hover */
+.social-icons a:hover {
+  transform: scale(1.2); /* You can adjust the scale value to make it larger or smaller */
+}
+
+
+

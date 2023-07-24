@@ -1,5 +1,3 @@
-
-
     Notes Keeping Application
     Solar Modal
     Registration page with Mysql using Django
@@ -14,4 +12,3 @@
     Music Game
     word scrumble
     Tic Tac Toe
-

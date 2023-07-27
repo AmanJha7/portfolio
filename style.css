@@ -483,11 +483,11 @@ input[type="checkbox"]:checked + .slider:before {
 .bng-crd{
 
   background-image: url("images/bnr.png");
-  height: 500px;
-  width: 1200px;
+  height: auto;
+  width: 100%;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 100%;
+  
 
   /* Adjust the background size to cover the container */
   background-size: cover;
